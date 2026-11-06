@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "soontra": {
+      "url": "https://app.soontra.com/api/mcp"
+    }
+  }
+}
