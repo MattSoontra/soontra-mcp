@@ -1,6 +1,6 @@
 # Soontra MCP Server
 
-The AI brain for marketing teams — search everything your company has ever recorded, right from Claude or ChatGPT.
+The AI content workspace — search everything your company has ever recorded, right from Claude or ChatGPT.
 
 Soontra indexes your company's video, audio, images and documents so every moment is searchable. Through this MCP server, Claude, ChatGPT, Cursor and VS Code search the same workspace the Soontra app searches.
 
